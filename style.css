@@ -10,3 +10,23 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
+.main-nav a{
+	display: flex;
+	justify-content: space-around;
+	/*flex-direction: row;*/
+	color: black;
+}
+
+.main-nav li a {
+	text-decoration: none;
+}
+
+.appslogo {
+	height: 1.3rem;
+}
+
+.profile {
+	height: 1.6rem;
+	width: 1.6rem;
+	border-radius: 50%;
+}
