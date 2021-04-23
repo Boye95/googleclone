@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dag",
+				"dagStr"
+			],
+			[
+				"test",
+				"testRegEx"
+			],
+			[
+				"make",
+				"makeServerRequest"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fail",
+				"failureItems"
+			],
+			[
+				"alig",
+				"align-self\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"grid-g",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"fon",
+				"fonts"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"border",
+				"border-right-style\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"text-d",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"ani",
+				"animation-timing-function"
+			],
+			[
+				"anim",
+				"animation-delay"
+			],
+			[
+				"anima",
+				"animation-duration"
+			],
+			[
+				"inil",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"trans",
+				"transition-duration"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"thi",
+				"thisARRAY"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onc",
+				"oncanplay\tAttr"
+			],
+			[
+				"fony",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"boye",
+				"boyeBad"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"b",
+				"border-style"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fir",
+				"firstLetterOfLastName"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"mya",
+				"myData"
+			],
+			[
+				"m",
+				"myName"
+			],
+			[
+				"animi",
+				"animation-duration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-widt",
+				"border-left-width"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: if"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 63.0,
+		"history":
+		[
+			"console.log(boye);",
+			"dmfmfmf",
+			"console.log(boye);"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ssamk/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/ssamk/AppData/Roaming/Sublime Text 3/Packages/User/setInterval.xml",
+		"/C/Users/ssamk/Desktop/desktop/01/Locker02 - Copy.flka",
+		"/C/Users/ssamk/Desktop/desktop/01/Locker02.flka",
+		"/C/Users/ssamk/Desktop/Coding/cheap.js",
+		"/C/Users/ssamk/Desktop/textwebsite/css/style.css",
+		"/C/Users/ssamk/Desktop/Coding/cheap.html",
+		"/C/Users/ssamk/Desktop/textwebsite/index.html",
+		"/C/Users/ssamk/Documents/Microsoft Office Professional Plus 2016 (x64) v16.0.4549.1000 PirateCity.NET/setup.exe",
+		"/C/Users/ssamk/Desktop/textwebsite/style.css",
+		"/C/Users/ssamk/Desktop/new world/trd.html",
+		"/C/Users/ssamk/Desktop/new world/index.html",
+		"/C/Users/ssamk/Desktop/new world/copied.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "g.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\ssamk\\Desktop\\desktop\\Coding\\main.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
