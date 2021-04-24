@@ -10,14 +10,17 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
-.main-nav a{
+.main-nav {
 	display: flex;
 	justify-content: space-around;
-	/*flex-direction: row;*/
+	flex-direction: row;
 	color: black;
+	width: 18%;
+	margin-left: auto;
+	margin-top: 0.5rem;
 }
 
-.main-nav li a {
+.main-nav a {
 	text-decoration: none;
 }
 
@@ -25,8 +28,114 @@ body {
 	height: 1.3rem;
 }
 
-.profile {
-	height: 1.6rem;
-	width: 1.6rem;
-	border-radius: 50%;
+.search-main {
+  margin-top: 16rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.homepage-image img{
+  width: 20rem;
+}
+
+.search-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border: 0.1rem solid #E4E4E4;
+  border-radius: 3rem;
+  height: 2.8rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35rem;
+}
+
+.searchsvg {
+  width: 1rem;
+}
+
+.recordsvg {
+  width: 1rem;
+}
+
+.my-input {
+  width: 28rem;
+  height: 2rem;
+  align-self: center;
+  border: none;
+  outline: none;
+}
+
+.search-box-btn {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-box-btn p {
+  background-color: #F3F3F3;
+  margin-left: 2rem;
+  padding: 0.4rem;
+}
+
+.text-below-search {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-below-search a, p{
+  text-decoration: none;
+  margin-left: 1.5rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  height: 10rem;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  background: #D7D8E1;
+}
+
+.footer a {
+  text-decoration: none;
+  color: black;
+}
+.nigeria {
+  height: 2.5rem;
+  border-bottom: 0.1rem solid #878787;
+  margin-left: 0.7rem;
+}
+
+.carbon {
+  margin-top: 0.6rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.carbon img {
+  width: 0.8rem;
+  margin-right: 0.2rem;
+}
+.the-footer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ul-left a {
+  margin-left: 2rem;
+}
+
+.ul-right a {
+  margin-left: 2rem;
 }
