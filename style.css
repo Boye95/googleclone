@@ -1,42 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .main-nav {
-	display: flex;
-	justify-content: space-around;
-	flex-direction: row;
-	color: black;
-	width: 18%;
-	margin-left: auto;
-	margin-top: 0.5rem;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  color: black;
+  font-size: 0.8rem;
+  width: 13%;
+  margin-left: auto;
+  margin-top: 0.8rem;
 }
 
 .main-nav a {
-	text-decoration: none;
+  text-decoration: none;
+  color: black;
 }
 
 .appslogo {
-	height: 1.3rem;
+  height: 1.2rem;
 }
 
 .search-main {
-  margin-top: 16rem;
+  margin-top: 10rem;
   display: flex;
   flex-direction: column;
   text-align: center;
 }
 
 .homepage-image img{
-  width: 20rem;
+  width: 15rem;
 }
 
 .search-box {
@@ -46,12 +48,15 @@ body {
   border: 0.1rem solid #E4E4E4;
   border-radius: 3rem;
   height: 2.8rem;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   margin-left: auto;
   margin-right: auto;
-  width: 35rem;
+  width: 30rem;
 }
 
+.search-box:hover {
+  box-shadow: 1px 1px 0px 2px rgba(240,223,223,0.88);
+}
 .searchsvg {
   width: 1rem;
 }
@@ -61,7 +66,7 @@ body {
 }
 
 .my-input {
-  width: 28rem;
+  width: 23rem;
   height: 2rem;
   align-self: center;
   border: none;
@@ -72,21 +77,27 @@ body {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-left: auto;
   margin-right: auto;
+  font-size: 0.8rem;
 }
 
 .search-box-btn p {
-  background-color: #F3F3F3;
+  background-color: #DADADA 0.5;
   margin-left: 2rem;
   padding: 0.4rem;
+}
+
+.search-box-btn p:hover {
+  background-color: white;
+  box-shadow: 1px 1px 0px 2px rgba(240,223,223,0.88);
 }
 
 .text-below-search {
   display: flex;
   justify-content: space-between;
-  margin-top: 2.5rem;
+  margin-top: 1rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -94,33 +105,40 @@ body {
 .text-below-search a, p{
   text-decoration: none;
   margin-left: 1.5rem;
+  font-size: 0.8rem;
 }
 
 .footer {
   display: flex;
   justify-content: space-evenly;
   flex-direction: column;
-  height: 10rem;
+  height: 6rem;
   width: 100%;
   position: absolute;
   bottom: 0;
-  background: #D7D8E1;
+  color: #8E8E8E;
+  background: #EFEFEF;
 }
 
 .footer a {
   text-decoration: none;
   color: black;
+  font-size: 0.8rem;
+  color: #8E8E8E;
 }
 .nigeria {
-  height: 2.5rem;
-  border-bottom: 0.1rem solid #878787;
+  border-bottom: 0.1rem solid #BEBEBE;
   margin-left: 0.7rem;
+  padding: 0.2rem;
+  font-size: 0.9rem;
+  align-items:  center;
 }
 
 .carbon {
-  margin-top: 0.6rem;
+  /*margin-top: 0.6rem;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: auto;*/
+  font-size: 0.8rem;
 }
 
 .carbon img {
@@ -129,7 +147,8 @@ body {
 }
 .the-footer {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
+  align-content: center;
 }
 
 .ul-left a {
